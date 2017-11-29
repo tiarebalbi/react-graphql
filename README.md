@@ -83,8 +83,13 @@ A big thank you to all contributors and supporters of this repository 💚
 </a>
 
 ## Help & Community [![Slack Status](https://slack.graph.cool/badge.svg)](https://slack.graph.cool)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ftiarebalbi%2Freact-graphql.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Ftiarebalbi%2Freact-graphql?ref=badge_shield)
 
 Say hello in our [Slack](http://slack.graph.cool/) or visit the [Graphcool Forum](https://www.graph.cool/forum) if you run into issues or have questions. We love talking to you!
 
 ![](http://i.imgur.com/5RHR6Ku.png)
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ftiarebalbi%2Freact-graphql.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Ftiarebalbi%2Freact-graphql?ref=badge_large)
